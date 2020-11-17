@@ -19,7 +19,7 @@
 
 ## Chicago City Map
 
-<img src="https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/City_regions.gif" width = "800"/>
+<img src="https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/City_regions.gif" width = "400"/>
 
 ## Description of Data
 
