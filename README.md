@@ -1,6 +1,6 @@
 # Chicago Crash Analysis
 
-<img https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg>
+!(https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg)
 
 ##### [Slideshow PDF]
 ##### [Video Walkthrough]
@@ -15,7 +15,7 @@
 
 ## Purpose
 
-#### Create a general understanding of important housing features in King County. Our client is a realtor in the county and has tasked us in helping to explain the most important, or value driving features of homes within the county. 
+#### 
 
 ## Chicago City Map
 
