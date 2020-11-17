@@ -43,7 +43,8 @@ https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
 * Question 2 Answer: The hours between 2 and 6 pm see elevated accident rates - this is invariably because of rush hour when there are simply more vehicles on the roads and increased opportunity for accidents. While there are more accidents on Fridays, the pattern for accidents by the hour is much the same as the rest of the week.
 
-![svg](img/Questio2_4_0.png)
+![svg](img/Question2_4_0.png)
+
 ![svg](img/Question2_5_0.png)
 
 * The graph below isolates Friday (when there is an increased chance of an accident) and breaks out by hour. The graph is very similar to the hourly breakdown for the full week. 
