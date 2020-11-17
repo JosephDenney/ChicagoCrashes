@@ -1,6 +1,6 @@
 # Chicago Crash Analysis
 
-(img https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg)
+<img https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg>
 
 ##### [Slideshow PDF]
 ##### [Video Walkthrough]
