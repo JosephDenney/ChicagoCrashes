@@ -8,7 +8,6 @@ import statsmodels.api as sm
 import statsmodels.formula.api as sms
 import scipy.stats as stats
 
-from pltfunctions import hist_kde_plots
 from haversine import haversine
 from math import sqrt
 
