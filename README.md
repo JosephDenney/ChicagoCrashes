@@ -59,6 +59,9 @@ https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
 
 ## Future Work
-* 
+* Break out by the day statistics to discover accident causes by the day.
+* Break out by the hour statistics around rush hour to discover (besides extra traffic) why accidents occur more often in the mid-afternoon. 
+* Differentiate between features that occur or exist before an accident as opposed to those features that are a result of the collision itself.
+
 
 ### Thank you!
