@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JosephDenney/ChicagoCrashes/blob/master/img/Chicago.jpeg" width="800"/>
 
-##### [Slideshow PDF]
+##### [Slideshow PDF] (.pdfs/TrafficCollisionsChicago.pdf)
 ##### [Video Walkthrough]
 
 ### Outline
