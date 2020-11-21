@@ -328,7 +328,7 @@ df1 = df[df['INJURIES_FATAL'] > 0]
 plt.figure(figsize=(10,7))
 sns.scatterplot(x=df['LONGITUDE'],y=df['LATITUDE'],hue=df['INJURIES_FATAL'])
 plt.legend(loc='lower left')
-plt.title('Location of Traffic Deaths in Chicago')
+plt.title('Location of Traffic Incidents in Chicago')
 plt.show()
 ```
 
