@@ -85,3 +85,13 @@ def cost_benefit_analysis(model, X_test, y_test):
     for key in label_dict.keys():
         total += cb_dict[key]*label_dict[key]
     return total / sum(label_dict.values())
+
+
+plt.figure(figsize=(10,7))
+sns.scatterplot(x=df1['LONGITUDE'],y=df1['LATITUDE'],hue=df['INJURIES_FATAL'],palette='Reds')
+sns.scatterplot(x=df['LONGITUDE'],y=df['LATITUDE'],color='Yellow',legend='brief',alpha=.01)
+plt.legend(loc='lower left')
+plt.title('Location of Traffic Deaths in Chicago (in Red)')
+plt.show()
+
+
